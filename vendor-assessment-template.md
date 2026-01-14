@@ -177,7 +177,7 @@ Bitte konkret benennen:
 ### 5.2 Generative AI
 
 - Asset-Erstellung
-- Variantenbildung
+- Erstellung von Varianten
 - Layout-Anpassung
 
 Status:

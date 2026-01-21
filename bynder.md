@@ -15,11 +15,10 @@ Bynder – Digital Asset Management
 Niederlande (Amsterdam)
 
 **Rechtsform:**  
-Privat / Unternehmensstruktur nichtöffentlich
+Privat / nicht öffentlich
 
 **Größe (gesamt):**  
->4000+ Kunden weltweit  
-1,7M+ Nutzer gesamt (indicative) :contentReference[oaicite:0]{index=0}
+>4.000 Kunden weltweit
 
 **Umsatz:**  
 Nicht öffentlich ausgewiesen
@@ -28,7 +27,7 @@ Nicht öffentlich ausgewiesen
 2008
 
 **Eigentümerstruktur (z. B. privat, VC, Konzern):**  
-Privat / Investoren-finanziert
+Privat / Investorenfinanziert
 
 **Primärer Markt:**  
 - Europa ✔  
@@ -48,7 +47,7 @@ Privat / Investoren-finanziert
 - Collaboration ✔
 
 **Bemerkung des Vendors:**  
-Bynder positioniert sich als **Enterprise DAM** mit KI‑Funktionen, Workflow, Omnichannel‑Distribution und umfangreichen Integrationen. :contentReference[oaicite:1]{index=1}
+Bynder ist ein Enterprise-DAM mit Fokus auf Workflow, Governance, Distribution und Integrationen.
 
 ---
 
@@ -56,15 +55,15 @@ Bynder positioniert sich als **Enterprise DAM** mit KI‑Funktionen, Workflow, O
 
 - Typische Anzahl Nutzer:  
   - 500–2.000 ✔  
-  - >2.000 ✔ (global skalierend) :contentReference[oaicite:2]{index=2}
+  - >2.000 ✔
 
 - Typische Anzahl verwalteter Assets:  
   - 10.000–100.000 ✔  
-  - >100.000 ✔ (Enterprise‑Nutzung) :contentReference[oaicite:3]{index=3}
+  - >100.000 ✔
 
 - Nutzung durch Externe (Agenturen, Partner):  
   - Ja ✔  
-  - Anteil ca. **30–60 %** (use case dependent)
+  - Anteil ca. 30–60 %
 
 ---
 
@@ -72,30 +71,31 @@ Bynder positioniert sich als **Enterprise DAM** mit KI‑Funktionen, Workflow, O
 
 ### 2.1 Technische Architektur
 
-- Cloud-basiert: **Ja**  
-- Multi-Tenant / Single-Tenant: **Multi‑Tenant SaaS**  
-- Hosting-Regionen: Europa, Nordamerika (global verfügbar)
+- Cloud-basiert: Ja  
+- Multi-Tenant / Single-Tenant: Multi-Tenant (SaaS)  
+- Hosting-Regionen: Europa, Nordamerika
 
 ---
 
 ### 2.2 APIs & externe Anbindung (Must-have)
 
-- API: **Ja**  
-- Dokumentierte APIs: **Ja**  
+- API: Ja  
+- Dokumentierte APIs: Ja  
 - Maschinenlesbarer Zugriff auf:  
   - Assets ✔  
   - Metadaten ✔  
-  - Rechteinformationen ✔  
-- API-Typ: REST (mit SDK‑Unterstützung) :contentReference[oaicite:4]{index=4}  
-- Authentifizierung: Token / OAuth‑basiert  
-- Rate Limits: vendor‑abhängig  
+  - Rechteinformationen ✔
+
+- API-Typ: REST  
+- Authentifizierung: Token / OAuth-basiert  
+- Rate Limits: abhängig vom Plan  
 - API-Zugriff lizenzpflichtig: abhängig vom Plan
 
 ---
 
 ### 2.3 Nutzung externer Datenquellen
 
-Status: **Voll unterstützt**
+Status: Voll unterstützt
 
 ---
 
@@ -108,21 +108,17 @@ Status: **Voll unterstützt**
 - Dokumente ✔  
 - Design-Dateien (PSD, AI etc.) ✔
 
----
-
 ### 3.2 Versionierung & Historie (Must-have)
 
-- Versionierung pro Asset: **Ja**  
-- Vergleich von Versionen: **Ja**  
-- Historie einsehbar (wer / wann): **Ja**
-
----
+- Versionierung pro Asset: Ja  
+- Vergleich von Versionen: Ja  
+- Historie einsehbar (wer / wann): Ja
 
 ### 3.3 Freigabe- & Review-Prozesse
 
-- Mehrstufige Freigaben möglich: **Ja**  
-- Rollenabhängige Freigaben: **Ja**  
-- Kommentierung / Annotation: **Ja**
+- Mehrstufige Freigaben möglich: Ja  
+- Rollenabhängige Freigaben: Ja  
+- Kommentierung / Annotation: Ja
 
 ---
 
@@ -130,27 +126,20 @@ Status: **Voll unterstützt**
 
 ### 4.1 Rechte-Modell (rechtlich relevant – Must-have)
 
-- Zeitliche Nutzungsrechte (Start / Ende): ✔  
-- Regionale Einschränkungen: ✔  
-- Medien-/Kanalabhängige Nutzung: ✔
-
----
+- Zeitliche Nutzungsrechte (Start / Ende) ✔  
+- Regionale Einschränkungen ✔  
+- Medien-/Kanalabhängige Nutzung ✔
 
 ### 4.2 Durchsetzung der Rechte
 
-- Asset wird technisch gesteuert gesperrt/limitiert ✔  
+- Asset kann technisch gesperrt / limitiert werden ✔  
 - Asset bleibt sichtbar, aber gekennzeichnet ✔  
-- Download / Nutzung können deaktiviert werden ✔
-
----
+- Download / Nutzung kann deaktiviert werden ✔
 
 ### 4.3 Audit & Nachvollziehbarkeit
 
-- Protokollierung von:  
-  - Downloads ✔  
-  - Freigaben ✔  
-  - Änderungen ✔  
-- Exportierbare Audit-Logs: **Ja**
+- Protokollierung von: Downloads ✔, Freigaben ✔, Änderungen ✔  
+- Exportierbare Audit-Logs: Ja
 
 ---
 
@@ -158,25 +147,21 @@ Status: **Voll unterstützt**
 
 ### 5.1 Aktive AI-Funktionen (heute)
 
-- Semantische Suche ✔ (NL Search, OCR, similarity search) :contentReference[oaicite:5]{index=5}  
-- Visuelle Ähnlichkeitssuche ✔ :contentReference[oaicite:6]{index=6}  
-- Automatische Verschlagwortung ✔ (KI‑gestützt) :contentReference[oaicite:7]{index=7}
-
----
+- Semantische Suche ✔  
+- Visuelle Ähnlichkeitssuche ✔  
+- Automatische Verschlagwortung ✔
 
 ### 5.2 Generative AI
 
-- Asset‑Erstellung: **Roadmap/selektiv**  
-- Erstellung von Varianten: **Roadmap**  
-- Layout‑Anpassung: **Roadmap**
-
----
+- Asset-Erstellung: Roadmap / selektiv  
+- Erstellung von Varianten: Roadmap  
+- Layout-Anpassung: Roadmap
 
 ### 5.3 AI-Governance (Must-have)
 
-- Nutzung eigener Kundendaten zum Training: **Nein**  
-- Opt‑out möglich: **Ja**  
-- DSGVO‑konform: **Ja** (GDPR/ISO 27001 zertifiziert) :contentReference[oaicite:8]{index=8}
+- Nutzung eigener Kundendaten zum Training: Nein  
+- Opt-out möglich: Ja  
+- DSGVO-konform: Ja
 
 ---
 
@@ -187,7 +172,7 @@ Status: **Voll unterstützt**
 - Adobe Creative Cloud ✔  
 - Figma ✔  
 - Canva ✔  
-- Weitere: CMS, PIM, Marketing Automation, Collaboration Tools (Contentful, Salesforce, MS Office etc.) :contentReference[oaicite:9]{index=9}
+- Weitere: CMS, PIM, Marketing-Automation, Collaboration Tools
 
 Art: Plugin ✔, API ✔, Export/Import ✔
 
@@ -197,17 +182,15 @@ Art: Plugin ✔, API ✔, Export/Import ✔
 
 ### 7.1 Authentifizierung
 
-- SSO möglich: **Ja**  
-- Standards: **SAML, OAuth**  
-- Externe Benutzer ohne Voll-Account: **Ja**
-
----
+- SSO möglich: Ja  
+- Standards: SAML, OAuth  
+- Externe Benutzer ohne Voll-Account: Ja
 
 ### 7.2 Rollenmodell
 
-- Vordefinierte Rollen vorhanden: **Ja**  
-- Individuell konfigurierbar: **Ja**  
-- Rechte steuerbar nach Asset / Ordner / Kontext: **Ja**
+- Vordefinierte Rollen vorhanden: Ja  
+- Individuell konfigurierbar: Ja  
+- Rechte steuerbar nach Asset / Ordner / Kontext: Ja
 
 ---
 
@@ -216,14 +199,12 @@ Art: Plugin ✔, API ✔, Export/Import ✔
 ### 8.1 Support
 
 - Support-Level: Standard / Premium / Enterprise  
-- Reaktionszeiten: SLA‑abhängig  
-- Onboarding enthalten: **Ja**
-
----
+- Reaktionszeiten: SLA-abhängig  
+- Onboarding enthalten: Ja
 
 ### 8.2 Kostenmodell
 
-- Lizenzmodell: Nutzer‑ & Funktionsbasiert  
+- Lizenzmodell: Nutzer- & Funktionsbasiert  
 - Zusatzkosten (API, Storage, AI): Ja, planabhängig  
 - Vertragslaufzeit: üblicherweise 12–36 Monate
 
@@ -233,19 +214,17 @@ Art: Plugin ✔, API ✔, Export/Import ✔
 
 ### 9.1 Datenportabilität
 
-- Vollständiger Datenexport möglich: **Ja**  
+- Vollständiger Datenexport möglich: Ja  
 - Formate: Originaldateien + Metadaten (JSON/CSV)  
 - Kosten für Export: vertraglich geregelt
 
----
-
 ### 9.2 Produkt-Roadmap
 
-- Öffentliche Roadmap: **Teilweise**  
+- Öffentliche Roadmap: Teilweise  
 - Planungshorizont: 12–24 Monate
 
 ---
 
 ## Abschluss
 
-Bynder ist eine **Enterprise‑starke DAM‑Plattform** mit KI‑gestützter Suche, Workflow, Rechteverwaltung und Omnichannel‑Distribution. Sie bietet starke Integrationen und Governance‑Funktionen für große globale Teams, Marken und Content‑Ökosysteme.
+Bynder ist eine Enterprise-starke DAM-Plattform mit KI-gestützter Suche, Workflow-Funktionen, Rechteverwaltung und Omnichannel-Distribution.

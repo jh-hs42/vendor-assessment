@@ -1,6 +1,3 @@
-Hier ist die **saubere Markdown-Evaluation für Papirfly**, basierend auf den verfügbaren Informationen – bereit zum **Copy & Paste**:
-
-```markdown
 # Vendor Assessment – Brand & Digital Asset Management Platform
 ## Evaluation: Papirfly
 
@@ -248,6 +245,3 @@ Art: API ✔, Export/Import ✔
 ## Abschluss
 
 Papirfly ist eine **Brand Management & DAM Plattform mit starkem Fokus auf Marken-Governance, Template-basierter Content-Erstellung und globaler Zusammenarbeit** und eignet sich besonders für Organisationen mit verteilten Teams, Agenturen, Franchise-Strukturen und Bedarf an lokaler Content-Personalisierung bei zentraler Kontrolle.
-```
-
-Möchtest du jetzt eine **Vergleichstabelle (Frontify / Bynder / Papirfly)** oder ein **Scorecard-RFP-Template** für alle drei?
